@@ -1,0 +1,160 @@
+{
+  "document": "Malèna",
+  "pageId": "0:1",
+  "screens": [
+    {
+      "number": 1,
+      "name": "Splash",
+      "node": "0:1989",
+      "reference": "01.png",
+      "screenshot": "01-splash.png"
+    },
+    {
+      "number": 2,
+      "name": "Login",
+      "node": "0:1929",
+      "reference": "02.png",
+      "screenshot": "02-login.png"
+    },
+    {
+      "number": 3,
+      "name": "Sign up",
+      "node": "0:1860",
+      "reference": "03.png",
+      "screenshot": "03-signup.png"
+    },
+    {
+      "number": 4,
+      "name": "Slider",
+      "node": "0:1802",
+      "reference": "04.png",
+      "screenshot": "04-editorial.png"
+    },
+    {
+      "number": 5,
+      "name": "Discover",
+      "node": "0:1621",
+      "reference": "05.png",
+      "screenshot": "05-discover.png"
+    },
+    {
+      "number": 6,
+      "name": "Sidelist",
+      "node": "0:1569",
+      "reference": "06.png",
+      "screenshot": "06-menu.png"
+    },
+    {
+      "number": 7,
+      "name": "Category",
+      "node": "0:1442",
+      "reference": "07.png",
+      "screenshot": "07-category.png"
+    },
+    {
+      "number": 8,
+      "name": "Filters",
+      "node": "0:1299",
+      "reference": "08.png",
+      "screenshot": "08-filters.png"
+    },
+    {
+      "number": 9,
+      "name": "Product",
+      "node": "0:1167",
+      "reference": "09.png",
+      "screenshot": "09-product.png"
+    },
+    {
+      "number": 10,
+      "name": "Reviews",
+      "node": "0:1088",
+      "reference": "10.png",
+      "screenshot": "10-reviews.png"
+    },
+    {
+      "number": 11,
+      "name": "Cart (Empty)",
+      "node": "0:1031",
+      "reference": "11.png",
+      "screenshot": "11-cart-empty.png"
+    },
+    {
+      "number": 12,
+      "name": "Cart",
+      "node": "0:939",
+      "reference": "12.png",
+      "screenshot": "12-cart.png"
+    },
+    {
+      "number": 13,
+      "name": "Shipping info",
+      "node": "0:844",
+      "reference": "13.png",
+      "screenshot": "13-shipping.png"
+    },
+    {
+      "number": 14,
+      "name": "Payment details",
+      "node": "0:752",
+      "reference": "14.png",
+      "screenshot": "14-payment.png"
+    },
+    {
+      "number": 15,
+      "name": "Done",
+      "node": "0:697",
+      "reference": "15.png",
+      "screenshot": "15-done.png"
+    },
+    {
+      "number": 16,
+      "name": "Search",
+      "node": "0:623",
+      "reference": "16.png",
+      "screenshot": "16-search.png"
+    },
+    {
+      "number": 17,
+      "name": "Search results",
+      "node": "0:529",
+      "reference": "17.png",
+      "screenshot": "17-search-results.png"
+    },
+    {
+      "number": 18,
+      "name": "Wishlist",
+      "node": "0:401",
+      "reference": "18.png",
+      "screenshot": "18-wishlist.png"
+    },
+    {
+      "number": 19,
+      "name": "Map",
+      "node": "0:301",
+      "reference": "19.png",
+      "screenshot": "19-map.png"
+    },
+    {
+      "number": 20,
+      "name": "Scan",
+      "node": "0:256",
+      "reference": "20.png",
+      "screenshot": "20-scan.png"
+    },
+    {
+      "number": 21,
+      "name": "Account",
+      "node": "0:60",
+      "reference": "21.png",
+      "screenshot": "21-account.png"
+    },
+    {
+      "number": 22,
+      "name": "Settings",
+      "node": "0:2",
+      "reference": "22.png",
+      "screenshot": "22-settings.png"
+    }
+  ]
+}
